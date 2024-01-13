@@ -1,1 +1,4 @@
 MEDICAL/chest_xray/
+MEDICAL/test/
+MEDICAL/train/
+MEDICAL/val/
